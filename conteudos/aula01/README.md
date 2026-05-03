@@ -16,7 +16,7 @@ Bem-vindos ao primeiro encontro da OwlBI! Nesta aula, apresentamos o mundo da pr
 
 ## 📚 Materiais
 * [📄 Slides da aula 01 (PDF)](./aula01.pdf)
-* 💡 Lembre-se: Você pode usar o [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler) para testar os códigos diretamente no navegador.
+* 💡 Lembre-se: você pode usar o [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler) para testar os códigos diretamente no navegador.
 
 ---
 
