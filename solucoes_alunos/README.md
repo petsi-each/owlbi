@@ -23,7 +23,7 @@ solucoes_alunos/
 
 ## 🛠️ Passo a passo para enviar sua solução (Pull Request)
 
-1. Faça um Fork deste repositório para a sua conta do GitHub.
+1. Faça um *fork* deste repositório para a sua conta do GitHub.
 2. Clone o repositório forkado para a sua máquina local:
 
 ```bash
