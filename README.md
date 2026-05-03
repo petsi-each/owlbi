@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="OWLBI" src="https://github.com/user-attachments/assets/36a3eaee-f257-4952-8e42-245d46df1ea0" />
+
 # 🦉 Aulas de programação competitiva - OwlBI
 
 Bem-vindos ao repositório oficial das aulas de preparação para a **Olimpíada Brasileira de Informática (OBI)**!
