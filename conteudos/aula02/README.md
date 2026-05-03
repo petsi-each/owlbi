@@ -26,15 +26,21 @@ Durante o encontro, desenvolvemos a lógica dos seguintes cenários:
 ## 🚀 Exercícios extras recomendados
 Para fixar o conteúdo desta semana, separamos alguns desafios clássicos focados nas estruturas que aprendemos hoje. 
 
-| Problema | Tópico Foco | Plataforma | Dificuldade | Link |
+| Problema | Tópico | Plataforma | Dificuldade | Link |
 | :--- | :--- | :--- | :---: | :--- |
-| Flíper (OBI 2014) | Condicionais | Neps Academy | Fácil | [Acessar problema](https://neps.academy/br/exercise/87) |
-| Coordenadas de um Ponto | Condicionais | Beecrowd | Iniciante | [Acessar problema](https://www.beecrowd.com.br/judge/pt/problems/view/1041) |
-| Prêmio do Milhão (OBI 2015) | Loops | Neps Academy | Fácil | [Acessar problema](https://neps.academy/br/exercise/48) |
-| Senha Fixa | Loops | Beecrowd | Iniciante | [Acessar problema](https://www.beecrowd.com.br/judge/pt/problems/view/1114) |
-| Primo | Funções | Neps Academy | Fácil | [Acessar problema](https://neps.academy/br/exercise/276) |
+| Flíper (OBI 2014) | Condicionais | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/87) |
+| Operações | Condicionais | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/218) |
+| Prêmio do Milhão (OBI 2015) | Loops | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/48) |
+| Desafio do Maior Número | Loops | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/323) |
+| Lâmpadas | Loops | Neps Academy | ![Médio](https://img.shields.io/badge/Médio-yellow?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/52) |
+| Consecutivos | Loops | Neps Academy |![Médio](https://img.shields.io/badge/Médio-yellow?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/110) |
+| Função Fatorial | Funções | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/174) |
+| Primo | Funções | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/276) |
+| Média e Mediana | Matemática | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/1656) |
+| Pizza da OBI | Condicionais | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/2434) |
 
 ---
+
 ## 📝 Lembrete importante: pré-inscrição OBI
 A pré-inscrição para a OBI já está rolando! O preenchimento dos dados é a primeira etapa antes da confirmação final do coordenador (Prof. Daniel Cordeiro). Acesse o formulário e atente-se aos padrões:
 * **Ano escolar:** Universitário, primeiro ano.
