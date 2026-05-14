@@ -28,8 +28,8 @@ Para fixar o conteúdo desta semana, separamos alguns desafios clássicos focado
 
 | Problema | Tópico | Plataforma | Dificuldade | Link |
 | :--- | :--- | :--- | :---: | :--- |
-| Campo Minado | Arrays&Condicionais | Neps Academy | ![Médio]![Médio](https://img.shields.io/badge/Médio-yellow?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/241) |
-| Botas Trocadas | Arrays&Condicionais | Neps Academy | ![Médio]![Médio](https://img.shields.io/badge/Médio-yellow?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/19) |
+| Campo Minado | Arrays&Condicionais | Neps Academy | ![Médio](https://img.shields.io/badge/Médio-yellow?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/241) |
+| Botas Trocadas | Arrays&Condicionais | Neps Academy | ![Médio](https://img.shields.io/badge/Médio-yellow?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/19) |
 | Baús e Chaves | Arrays | Neps Academy | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://neps.academy/br/exercise/2008) |
 | Fila (OBI 2014) | Arrays | OBI | ![Fácil](https://img.shields.io/badge/Fácil-brightgreen?style=flat-square) | [Acessar problema](https://olimpiada.ic.unicamp.br/pratique/pj/2014/f1/fila/) |
 | Paciente Zero (OBI 2020) | Arrays | OBI | ![Médio](https://img.shields.io/badge/Médio-yellow?style=flat-square) | [Acessar problema](https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/paciente/) |
